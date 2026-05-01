@@ -51,7 +51,8 @@ A compact WiFi-based remote controller for Tauon Music Player built using an ESP
 | TP4056 Charging Module (Type-C) | Battery charging & protection | 1 | 0.17 | [Link](https://quartzcomponents.com/products/tp4056-battery-charging-protection-module-type-c?variant=39545849774264) | Quartz Components |
 | 1.44" ST7735 TFT Display | Display output | 1 | 3.47 | [Link](https://www.xcluma.com/1-44-inch-hd-tft-oled-color-high-resolution-display-128x128-ips-screen-st7735) | xcluma |
 | ESP32-C3 Super Mini | Main microcontroller | 1 | 3.05 | [Link](https://quartzcomponents.com/products/esp32-c3-super-mini-development-board-with-soldered-headers-hw-466ab) | Quartz Components |
+| 3D Print | Casing | 1 | 3.17 | [Link]() | Varies |
 | Taxes | — | — | 1.97 | — | — |
 | Shipping | — | — | 1.72 | — | — |
-| **Total** |  |  | **13.93 USD** |  |  |
+| **Total** |  |  | **17.10 USD** |  |  |
 
